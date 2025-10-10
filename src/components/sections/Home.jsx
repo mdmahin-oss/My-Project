@@ -162,7 +162,7 @@ export const Home = () => {
           whileHover={{ scale: 1.05 }}
         >
           <motion.img
-            src="http://localhost:5173/mahin-portfolio/Me.png"
+            src="/Me.png"
             alt="Mahin Zaman"
             className="w-full rounded-3xl shadow-[0_0_40px_rgba(59,130,246,0.3)] border border-white/10"
             animate={{ y: [0, -12, 0] }}
@@ -180,3 +180,4 @@ export const Home = () => {
     </section>
   );
 };
+
