@@ -167,8 +167,6 @@ export const Projects = () => {
                 >
                   View Project →
                 </a>
-                  View Project →
-                </a>
               </div>
             </div>
 
@@ -182,3 +180,4 @@ export const Projects = () => {
   );
 
 };
+
