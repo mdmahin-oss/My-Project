@@ -95,7 +95,7 @@ export const About = () => {
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
                   <strong>Bachelor of Computer Science (BCompSc), </strong> - Bangladesh University
-                  passing year 2028.
+                  passing year 2027.
                 </li>
               </ul>
             </div>
@@ -136,4 +136,5 @@ Ensuring the quality and reliability of Helix’s software products through manu
   );
 
 };
+
 
