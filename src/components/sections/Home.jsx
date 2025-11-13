@@ -5,7 +5,7 @@ import { motion, useMotionValue, useTransform } from "framer-motion";
 export const Home = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [scrollY, setScrollY] = useState(0);
-  const skills = ["MERN", "Next.js", "Tailwind CSS", "QA", "UI/UX"];
+  const skills = ["Next.js",".NET", "Tailwind CSS", "QA", "Playwrite", "Typescript"];
 
   // Cursor & scroll tracking
   useEffect(() => {
@@ -85,7 +85,7 @@ export const Home = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 0.3 }}
         >
-          Full-Stack Developer & QA Analyst | UI/UX Specialist
+          Full-Stack Developer & QA Engineer
         </motion.h2>
 
         <motion.p
@@ -180,4 +180,5 @@ export const Home = () => {
     </section>
   );
 };
+
 
