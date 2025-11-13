@@ -36,7 +36,7 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              I’m a Full Stack developer with hands-on experience in building modern, responsive, and high-performance websites and applications. I specialize in Next.js, React, and Node.js, delivering seamless UI/UX experiences that convert and scale.<br/></p>
+              I’m a passionate and results-driven Full Stack Developer (Next.js & .NET) with hands-on experience in QA testing(Typescript, Playwrite) and automation. I bridge the gap between development and quality—ensuring that every product delivers an excellent user experience and performs flawlessly.<br/></p>
 {/* <br/>
               Core Skills:<br/>
               • Frontend: Next.js, React, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design<br/>
@@ -134,4 +134,5 @@ Ensuring the quality and reliability of Helix’s software products through manu
       </RevealOnScroll>
     </section>
   );
+
 };
