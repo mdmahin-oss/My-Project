@@ -136,9 +136,9 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Figma UI/UX for Clothing Website</h3>
+              <h3 className="text-xl font-bold mb-2">Shaif’s Cuisine – Restaurant Web Application</h3>
               <p className="text-gray-400 mb-4">
-              One of my clients opened a new Clothing business. He needs a website and designfor his business, and he wants it to look minimalistic, so I designed it and made it user-friendly, and it looks stunning as well, just like he wants.
+             A modern, responsive restaurant website showcasing menu items, special dishes, top offers, and event bookings. Built with a focus on user-friendly design and seamless navigation, it highlights customer reviews, newsletter subscriptions, and contact options, providing a complete online dining experience.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Figma", "Ui/Ux","Next.js", "Tailwind CSS", ].map(
@@ -180,4 +180,5 @@ export const Projects = () => {
   );
 
 };
+
 
