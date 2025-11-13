@@ -105,7 +105,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software QA Analyst | Helix{" "}
+                    Software QA Engineer | Helix{" "}
                   </h4>
                   <p>
 Ensuring the quality and reliability of Helix’s software products through manual and automated testing. Skilled in designing and executing test plans, identifying and tracking defects, and collaborating with cross-functional teams to deliver seamless user experiences.
@@ -136,5 +136,6 @@ Ensuring the quality and reliability of Helix’s software products through manu
   );
 
 };
+
 
 
