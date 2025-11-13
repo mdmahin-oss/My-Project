@@ -2,11 +2,11 @@ import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
   const skills = [
-    "Frontend: HTML, JavaScript, React, Tailwind CSS",
-    "Backend: Node.js, Express.js",
-    "Web Design: Figma, UI/UX Design",
-    "API Integration, Responsive Design, Debugging & Bug Fixing",
-    "Tools & Platforms: VS Code, Figma, Git, GitHub",
+    "Frontend: Next.js, React, Tailwind CSS, Responsive Design",
+    "Backend: .NET, C#, RESTful APIs",
+    "Database: SQL Server",
+    "Testing & QA: Playwright, Manual Testing, QA Analytics, Bug Tracking (Jira)",
+    "Tools: Git, VS Code, Postman, Chrome DevTools, Claude AI",
   ];
 
   const typeofwebsite = [
@@ -136,3 +136,4 @@ Ensuring the quality and reliability of Helix’s software products through manu
   );
 
 };
+
