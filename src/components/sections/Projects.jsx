@@ -75,7 +75,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://bengusa.pro/" // <-- replace this with your actual deployed link
+                  href="https://bengusa.vercel.app/" // <-- replace this with your actual deployed link
   target="_blank" // opens in a new tab
   rel="noopener noreferrer" // security best practice
   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
@@ -116,8 +116,10 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
+                  href="https://my-project-virid-iota.vercel.app/" // <-- replace this with your actual deployed link
+  target="_blank" // opens in a new tab
+  rel="noopener noreferrer" // security best practice
+  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
                 </a>
@@ -157,10 +159,14 @@ export const Projects = () => {
                 )}
               </div>
               <div className="flex justify-between items-center">
-                <a
-                  href="https://www.upwork.com/freelancers/~01781b9485ead7ad54?p=1923446485740716032"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
+                 <a
+                  href="https://mahins-cuision.vercel.app/" // <-- replace this with your actual deployed link
+  target="_blank" // opens in a new tab
+  rel="noopener noreferrer" // security best practice
+  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
+                  View Project →
+                </a>
                   View Project →
                 </a>
               </div>
@@ -174,4 +180,5 @@ export const Projects = () => {
       </RevealOnScroll>
     </section>
   );
+
 };
