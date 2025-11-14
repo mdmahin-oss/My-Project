@@ -11,15 +11,13 @@ export const About = () => {
 
   const typeofwebsite = [
     "Web Development",
-    "Web Design",
     "E-commerce Website",
     "Fashion Website",
     "Portfolio Website",
     "Blog Website",
     "website mockup",
     "UI/UX Design",
-    "Landing Page",
-    "Content Editing",
+    "Landing Page"
   ];
 
   return (
@@ -122,9 +120,6 @@ Ensuring the quality and reliability of Helix’s software products through manu
                   </h4>
                   <p>
                     Designed and developed modern, responsive web applications using React.js, Tailwind Css and JavaScript.
-                    Converted Figma designs into fully functional frontend components.
-                    Maintained and enhanced existing projects, fixed bugs, and implemented new features based on client needs.
-                    Worked closely with backend developers to integrate RESTful APIs
                   </p>
                 </div>
               </div>
@@ -136,6 +131,7 @@ Ensuring the quality and reliability of Helix’s software products through manu
   );
 
 };
+
 
 
 
