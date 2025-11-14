@@ -103,7 +103,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software QA Engineer | Helix (Present){" "}
+                    Software QA Engineer | Helix   (Present){" "}
                   </h4>
                   <p>
 I test and optimize complex web applications using TypeScript, Playwright, and SQL Server. I perform manual testing, create and manage bug reports in Jira, and work closely with developers to identify and resolve issues. I validate UI, workflows, and integrations across modules.
@@ -130,6 +130,7 @@ I test and optimize complex web applications using TypeScript, Playwright, and S
   );
 
 };
+
 
 
 
