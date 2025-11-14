@@ -103,11 +103,10 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software QA Engineer | Helix{" "}
+                    Software QA Engineer | Helix (Present){" "}
                   </h4>
                   <p>
-Ensuring the quality and reliability of Helix’s software products through manual and automated testing. Skilled in designing and executing test plans, identifying and tracking defects, and collaborating with cross-functional teams to deliver seamless user experiences.
-
+“I test and optimize complex web applications using TypeScript, Playwright, and SQL Server. I perform manual testing, create and manage bug reports in Jira, and work closely with developers to identify and resolve issues. I validate UI, workflows, and integrations across modules.
                   </p>
                   <br />
                 </div>
@@ -131,6 +130,7 @@ Ensuring the quality and reliability of Helix’s software products through manu
   );
 
 };
+
 
 
 
