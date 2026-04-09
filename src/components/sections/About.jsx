@@ -111,16 +111,6 @@ I test and optimize complex web applications using TypeScript, Playwright, and S
                   <br />
                 </div>
 
-                <div>
-                  <h4 className="font-semibold">
-                    {" "}
-                    Frontend Developer | Kitchen Craft Solution
-                    {" "}
-                  </h4>
-                  <p>
-                    Designed and developed modern, responsive web applications using React.js, Tailwind Css and JavaScript.
-                  </p>
-                </div>
               </div>
             </div>
           </div>
