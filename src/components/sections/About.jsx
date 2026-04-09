@@ -112,7 +112,7 @@ I’ve been deeply involved in testing and optimizing complex web applications. 
 -Create and manage bug reports and test cases in Jira.                                <br />
 -Collaborate with developers to identify, reproduce, and resolve issues.              <br />
 -Validate UI, workflows, and CI/CD for better user experience.                        <br />
--Gaining hands-on experience with Next.js and .NET while preparing to transition into a Full Stack Developer role.     
+-Gaining hands-on experience with Next.js and .NET while preparing to transition into a Full-Stack Developer role.     
                   </p>
                   <br />
                 </div>
@@ -126,10 +126,3 @@ I’ve been deeply involved in testing and optimizing complex web applications. 
   );
 
 };
-
-
-
-
-
-
-
