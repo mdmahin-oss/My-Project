@@ -107,11 +107,11 @@ export const About = () => {
                   </h4>
                   <p>
                     <br />
-I’ve been deeply involved in testing and optimizing complex web applications, working with technologies like TypeScript, Playwright.
--Perform manual testing to ensure product quality, usability, and performance.
--Create and manage bug reports and test cases in Jira.
--Collaborate with developers to identify, reproduce, and resolve issues.
--Validate UI, workflows, and integrations across modules.
+I’ve been deeply involved in testing and optimizing complex web applications, working with technologies like TypeScript, Playwright.                     <br />
+-Perform manual testing to ensure product quality, usability, and performance.                    <br />
+-Create and manage bug reports and test cases in Jira.                    <br />
+-Collaborate with developers to identify, reproduce, and resolve issues.                    <br />
+-Validate UI, workflows, and integrations across modules.                    <br />
 -Gaining hands-on experience with Next.js and .NET while preparing to transition into a Full Stack Developer role.     
                   </p>
                   <br />
