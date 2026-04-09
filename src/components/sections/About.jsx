@@ -34,7 +34,7 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              I’m a passionate and results-driven Full Stack Developer (Next.js & .NET) with hands-on experience in QA testing(Typescript, Playwrite) and automation. I bridge the gap between development and quality—ensuring that every product delivers an excellent user experience and performs flawlessly.<br/></p>
+              I’m a passionate and results-driven Full Stack Developer (Next.js & .NET) with hands-on experience in QA testing(Typescript, Playwright) and automation. I bridge the gap between development and quality—ensuring that every product delivers an excellent user experience and performs flawlessly.<br/></p>
 {/* <br/>
               Core Skills:<br/>
               • Frontend: Next.js, React, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design<br/>
