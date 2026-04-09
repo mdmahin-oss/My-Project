@@ -107,7 +107,12 @@ export const About = () => {
                   </h4>
                   <p>
                     <br />
-I test and optimize complex web applications using TypeScript, Playwright, and SQL Server. I perform manual testing, create and manage bug reports in Jira, and work closely with developers to identify and resolve issues. I validate UI, workflows, and integrations across modules.
+I’ve been deeply involved in testing and optimizing complex web applications, working with technologies like TypeScript, Playwright.
+-Perform manual testing to ensure product quality, usability, and performance.
+-Create and manage bug reports and test cases in Jira.
+-Collaborate with developers to identify, reproduce, and resolve issues.
+-Validate UI, workflows, and integrations across modules.
+-Gaining hands-on experience with Next.js and .NET while preparing to transition into a Full Stack Developer role.     
                   </p>
                   <br />
                 </div>
